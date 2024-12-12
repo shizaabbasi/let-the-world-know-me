@@ -1,0 +1,12 @@
+/*Social media section*/
+#social-media{
+    background: palevioletred;
+}
+/*Add color to the social media links*/
+.media_link{
+    padding: 1 rem;
+    max-width: 15 rem;
+    margin-left: 1 rem;
+    border: 2px solid palegreen;
+    border-radius: 0.5 rem;
+}
